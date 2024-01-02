@@ -13,5 +13,8 @@ This repository contains a CNN-based Potato Leaf Disease Classifier. The model i
 - **Prediction**: Allows users to input images for disease prediction using the trained model.
 - **Documentation**: Detailed usage instructions, dataset insights, and model architecture information.
 
+## Uniqueness in This Project
+One of the standout aspects of this project is the integration of the Inception_v3 model. This addition has significantly improved the model's performance, elevating classification accuracy and enhancing overall disease detection capabilities. Leveraging the advanced architecture of Inception_v3 has been instrumental in achieving more precise and reliable disease identification.
+
 ## Usage
 **Clone the Repository**git clone https://github.com/bishalganai05/Potato-Leaf-Disease-Classifier.git
