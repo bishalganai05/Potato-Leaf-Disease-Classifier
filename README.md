@@ -1,6 +1,6 @@
 # Potato Leaf Disease Classifier using Convolutional Neural Networks (CNN)
 
-![Potato Leaf Disease Classifier](ExperimentalImage.png)
+![Potato Leaf Disease Classifier](ExperimentalImage.PNG)
 
 ## Overview
 This repository contains a CNN-based Potato Leaf Disease Classifier. The model is designed to classify various potato leaf diseases using Convolutional Neural Networks (CNNs). Its primary aim is to aid farmers in early disease detection and effective management strategies.
